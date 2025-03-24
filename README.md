@@ -28,6 +28,17 @@ Editează
 - *Basic knowledge of power electronics*
 - *MATLAB* (optional, for additional analysis)
 
+## 📊 OriginLab Project File
+
+This repository includes a file STAB_TST_19.opj, which is an OriginLab project used for data visualization or analysis related to the database or music metadata.
+
+To open this file:
+1. Download [OriginLab](https://www.originlab.com/) (trial version available).
+2. Open the file directly in Origin.
+3. Explore graphs, statistics, or visual outputs included in the .opj file.
+
+If you do not have Origin, check the /exports folder for static versions (PNG/PDF) of the charts.
+
 ## 🚀 How to Run
 1. Open simulation.opj in *OrCAD PSpice*.
 2. Load the schematic.dsn file to view the circuit.
